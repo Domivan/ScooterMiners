@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-HrGqzHW18yUPGjkPJmIMi5SBV60dTSXtldF6fX3NYOg=",
+      "hash": "sha256-LVsNQRgJiuhRkB11rwaERSUwup5TbfQQTzz57yjdiNU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -189,7 +189,7 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-Q7uzpWLdidxEUl80ecmtq5vBaoyyM74IobkUhNeFjeo=",
+      "hash": "sha256-8te5jzghkWI\/atYSizrjac1PhAJOuqRYX+avbRTdHs8=",
       "url": "_framework\/ScooterMiners.dll"
     },
     {
@@ -857,5 +857,5 @@
       "url": "_content\/Syncfusion.Blazor\/styles\/tailwind.css"
     }
   ],
-  "version": "j7XLFlQ5"
+  "version": "qhlF7A23"
 };
