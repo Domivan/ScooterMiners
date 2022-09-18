@@ -77,7 +77,7 @@ namespace ScooterMiners.Pages
             catch (Exception error)
             {
                 beaconEnabled = false;
-                //  Notification.Show(error.Message, Notification.NotificationType.error);
+                // Notification.Show(error.Message, Notification.NotificationType.error);
                 // Notification.Show("Ошибка соединения", Notification.NotificationType.error);
             }
 
